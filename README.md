@@ -16,4 +16,4 @@ We found that at low timesteps the OOD samples were reconstructed better due to 
 
 ## Code
 
-I have included the 2 notebooks used for this project. [This](asd) is for training the model, and [the other](asd) is to conduct the experiments. To reproduce the experiments, download the [weights](https://drive.google.com/file/d/1aSl74xNuBoa8KkGUeVfUC_q0PPXf2PfX/view?usp=sharing) for the model and change the path to the downloaded weights in [experiments.ipynb](asd).
+I have included the 2 notebooks used for this project. [This](ddpm_train.ipynb) is for training the model, and [the other](experiments.ipynb) is to conduct the experiments. To reproduce the experiments, download the [weights](https://drive.google.com/file/d/1aSl74xNuBoa8KkGUeVfUC_q0PPXf2PfX/view?usp=sharing) for the model and change the path to the downloaded weights in [experiments.ipynb](asd).
